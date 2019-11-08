@@ -1,0 +1,29 @@
+/* LOGO */
+
+#logo {
+
+    height: 40px;
+    width: 40px;
+}
+
+/* BODY */
+
+#imagenindex, #terreno, #duracion, #jugadores {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 600px;
+}
+
+/* FOOTER */
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:	rgb(255, 166, 0);
+  color: rgb(40, 37, 207);
+  text-align: center;
+}
